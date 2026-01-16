@@ -27,6 +27,8 @@ Perfect for developers who love the Material Design philosophy but want a deeper
 
 ## 📸 Preview
 
+![Preview](https://github.com/pabloherre/material-darker-ph/blob/main/images/example1.jpg)
+
 ![Preview](https://github.com/pabloherre/material-darker-ph/blob/main/images/example2.jpg)
 
 ## 📥 Installation
