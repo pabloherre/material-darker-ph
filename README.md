@@ -27,9 +27,7 @@ Perfect for developers who love the Material Design philosophy but want a deeper
 
 ## 📸 Preview
 
-![Preview](https://raw.githubusercontent.com/pablo-a-herrera/material-darker-ph/main/images/example2.jpg)
-
-*(To take a screenshot: Open a code file -> `Ctrl` + `Shift` + `P` -> type "ScreenCast Mode" or use your OS screenshot tool)*
+![Preview](https://github.com/pabloherre/material-darker-ph/blob/main/images/example2.jpg)
 
 ## 📥 Installation
 
