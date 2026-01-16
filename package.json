@@ -9,6 +9,20 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "material",
+    "dark",
+    "high contrast",
+    "ph"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pabloherre/material-darker-ph.git"
+  },
+  "author": "Pablo Herrera",
+  "license": "ISC",
   "contributes": {
     "themes": [
       {
