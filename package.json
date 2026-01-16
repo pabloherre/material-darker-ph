@@ -1,0 +1,21 @@
+{
+  "name": "material-darker-ph",
+  "displayName": "Material Darker PH",
+  "description": "Sleek, high-contrast dark theme designed for long coding sessions.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Darker PH",
+        "uiTheme": "hc-black",
+        "path": "./themes/Material Darker PH-color-theme.json"
+      }
+    ]
+  }
+}
