@@ -12,7 +12,7 @@
 
 ---
 
-![Preview](https://github.com/pabloherre/material-darker-ph/blob/main/images/logo.png)
+![Preview](https://github.com/pabloherre/material-darker-ph/blob/main/images/icon.png)
 
 ## 🎨 Overview
 
