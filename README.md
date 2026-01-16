@@ -12,6 +12,8 @@
 
 ---
 
+![Preview](https://github.com/pabloherre/material-darker-ph/blob/main/images/logo.png)
+
 ## 🎨 Overview
 
 **Material Darker PH** is a sleek, high-contrast dark theme designed for long coding sessions. Building upon the classic Material Darker aesthetics, this version brings refined color palettes, improved syntax highlighting visibility, and a modern feel to your editor.

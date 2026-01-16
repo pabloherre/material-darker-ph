@@ -3,6 +3,7 @@
   "displayName": "Material Darker PH",
   "description": "Sleek, high-contrast dark theme designed for long coding sessions.",
   "version": "0.0.1",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.108.1"
   },
